@@ -31,6 +31,7 @@ MERN Stack Development, Full Stack Web Development
 📫 **How to reach me:**  
 - **Email:** [gokulbharath1221@gmail.com](mailto:gokulbharath1221@gmail.com)  
 - **GitHub:** [Gokulbharath](https://github.com/Gokulbharath)  
-- **LinkedIn:** [Gokul Bharath V](https://linkedin.com/in/gokul-bharath-b6a117266)  
+- **LinkedIn:** [Gokul Bharath V](https://linkedin.com/in/gokul-bharath-b6a117266)
+- **Instagram:** https://www.instagram.com/mersal_arasan_2?igsh=dDBwa29pNm0yNWMw
 
 ⚡ **Fun Fact:** I enjoy solving complex problems and exploring new technologies to create impactful solutions.  
