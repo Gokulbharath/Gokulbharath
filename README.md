@@ -11,7 +11,7 @@ MERN Stack Development, Full Stack Web Development
   KIT - Kalaignar Karunanidhi Institute of Technology (2022–2026)  
 
 🔧 **Technical Skills:**  
-- **Programming Languages:** C, C++, Python, Java  
+- **Programming Languages:** C, C++, Python  
 - **Frontend Development:** HTML, CSS, JavaScript  
 - **Backend Development:** PHP, Node.js  
 - **Database Management:** MySQL, MongoDB  
